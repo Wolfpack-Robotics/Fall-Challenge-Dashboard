@@ -220,6 +220,7 @@
 			<Item Name="Rectangularity Score.vi" Type="VI" URL="../../../../Dropbox/Robot Code old/2014 Target Detection/Rectangularity Score.vi"/>
 			<Item Name="Aspect Ratio Score.vi" Type="VI" URL="../../../../Dropbox/Robot Code old/2014 Target Detection/Aspect Ratio Score.vi"/>
 			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../../../Dropbox/Robot Code old/2014 Target Detection/Sorted Particle Report.vi"/>
+			<Item Name="TargetType.ctl" Type="VI" URL="../../../../Desktop/old code/Robot Code/2014 Target Detection/TargetType.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC PC Dashboard" Type="EXE">
